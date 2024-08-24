@@ -141,7 +141,6 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | alabom.top | [http://alabom.top/cn/index.html](http://alabom.top/cn/index.html) |
 | ❌已下线 | 水木清华 | [水木清华](https://www.open985.com/) |
 | ❌已下线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
-| ❌已下线 | 酸奶 - 广告运营从业者类别导航 | [酸奶 \- 专注广告运营从业者类别导航](http://about.edu233.cn/) |
 ## License
 
 Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
