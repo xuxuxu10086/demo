@@ -141,7 +141,6 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | alabom.top | [http://alabom.top/cn/index.html](http://alabom.top/cn/index.html) |
 | ❌已下线 | 水木清华 | [水木清华](https://www.open985.com/) |
 | ❌已下线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
-| ❌已下线 | ☞ | [新媒体](https://www.baidu.com/) |
 
 ## License
 
