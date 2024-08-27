@@ -142,6 +142,7 @@ JUST DOWNLOAD AND DO WHAT THE FUCK YOU WANT TO.
 | ❌已下线 | 水木清华 | [水木清华](https://www.open985.com/) |
 | ❌已下线 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
 
+| ❌重上線 | 新媒体百宝箱 | [新媒体百宝箱](https://www.xmtbbx.com/) |
 ## License
 
 Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the **MIT License**.
